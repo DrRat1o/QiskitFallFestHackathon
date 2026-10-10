@@ -4,7 +4,7 @@
 > ⚠️ **CRITICAL INSTRUCTIONS FOR PARTICIPANTS:**
 > 1. **Do NOT rename or delete the section headings** below. The automated AI evaluation and filtering system relies on this exact Markdown structure to parse and grade your project.
 > 2. Replace all placeholder text enclosed in `[brackets]` with your project's details.
-> 3. **Commit History Audit:** All project commits must be timestamped strictly within the 24-hour hackathon window (between **Day 1, 7:05 PM** and **Day 2, 7:05 PM**). Commits observed outside this window will result in **immediate disqualification**.
+> 3. **Commit History Audit:** All project commits must be timestamped strictly within the 24-hour hackathon window (between **October 10, 2026 at 7:05 PM** and **October 11, 2026 at 7:05 PM**). Commits observed outside this window will result in **immediate disqualification**.
 > 4. Ensure all Jupyter Notebooks have their cells **run and outputs displayed** before pushing.
 > 5. Starter resources and reference guides are located in the [`references/`](./references/) folder.
 > 6. **Tech Stack Flexibility:** You are free to use any external frameworks/technologies (e.g., Streamlit, React, Pygame, FastAPI, NetworkX) for your frontend, app logic, or classical baselines. However, **Qiskit MUST power the quantum core** of your project.

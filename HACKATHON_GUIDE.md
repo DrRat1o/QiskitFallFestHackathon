@@ -8,18 +8,20 @@ Whether you are crafting an interactive quantum game or building a quantum solve
 
 Please keep a close eye on the clock. All deadlines are strict to ensure fair evaluation.
 
-* **Hackathon Kickoff:** **Day 1 at 7:05 PM**  
+* **Hackathon Kickoff:** **October 10, 2026 at 7:05 PM**  
   *The hackathon officially begins! Brainstorming, teaming up, and hacking starts now.*
-* **Checkpoint 1 :  Topic & Team Registration:** **Day 1 by 10:00 PM (Strict Deadline)**  
+* **Checkpoint 1 — Topic & Team Registration:** **October 10, 2026 by 10:00 PM (Strict Deadline)**  
   *A registration form will be shared. Every team (or solo participant) must fill out this form by 10:00 PM specifying:*
   * Chosen Track (Track 1 or Track 2)
   * Team Name
   * Participation type (Solo or Team)
   * Details of all team members (Names, Emails, GitHub usernames)
-* **Checkpoint 2 :  Submission Form Release:** **Day 2 at 4:00 PM**  
+* **Checkpoint 2 — Submission Form Release:** **October 11, 2026 at 4:00 PM**  
   *The final submission form will be released. You can begin submitting your deliverables as soon as they are ready.*
-* **Hackathon Conclusion & Final Deadline:** **Day 2 at 7:05 PM (Hard Deadline)**  
+* **Hackathon Conclusion & Final Deadline:** **October 11, 2026 at 7:05 PM (Hard Deadline)**  
   *The hackathon ends exactly 24 hours after kickoff. All final submissions must be recorded before 7:05 PM.*
+
+---
 ## 2. Challenge Tracks
 
 Participants must choose **one** of the following two tracks:
@@ -82,8 +84,11 @@ To ensure automated processing and fair evaluation, all teams **must** base thei
 4. **Runnable Notebooks:**  
    Any Jupyter Notebooks submitted in your repository must have their cells **run and outputs displayed** (including circuit diagrams, charts, and demo results).
 5. **Commit Window & Audit (Strict Disqualification Rule):**  
-   All commits contributing to the project must be made **strictly during the hackathon window** (between Day 1 at 7:05 PM and Day 2 at 7:05 PM). If commits are observed outside the hackathon duration (e.g., pre-built projects or late commits), the team will be **automatically disqualified**.
-## 4. Final Submission Deliverables (Due Day 2, 7:05 PM)
+   All commits contributing to the project must be made **strictly during the hackathon window** (between October 10, 2026 at 7:05 PM and October 11, 2026 at 7:05 PM). If commits are observed outside the hackathon duration (e.g., pre-built projects or late commits), the team will be **automatically disqualified**.
+
+---
+
+## 4. Final Submission Deliverables (Due October 11, 2026 at 7:05 PM)
 
 Your team will submit the following through the submission form released at 4:00 PM:
 
@@ -116,7 +121,7 @@ Submissions will be evaluated based on the following key dimensions:
 All participants are expected to maintain the highest standards of integrity, respect, and sportsmanship throughout the event:
 
 1. **Originality of Work & Commit Window:**  
-   All code and project materials submitted must be developed strictly during the 24 hours of the hackathon. While you are encouraged to use open-source libraries, Qiskit documentation, and the provided template references, verbatim copying or submitting pre-existing projects is strictly prohibited. **GitHub commit histories will be audited: if commits are observed before the hackathon start time (Day 1, 7:05 PM) or after the deadline, the team will be disqualified immediately.**
+   All code and project materials submitted must be developed strictly during the 24 hours of the hackathon. While you are encouraged to use open-source libraries, Qiskit documentation, and the provided template references, verbatim copying or submitting pre-existing projects is strictly prohibited. **GitHub commit histories will be audited: if commits are observed before the hackathon start time (October 10, 2026 at 7:05 PM) or after the deadline (October 11, 2026 at 7:05 PM), the team will be disqualified immediately.**
 2. **Proper Attribution:**  
    If you adapt code snippets, algorithms, or game ideas from external sources, you must clearly credit and cite them in your `README.md`.
 3. **Use of AI Assistance:**  
@@ -126,6 +131,6 @@ All participants are expected to maintain the highest standards of integrity, re
 4. **Collaboration & Respect:**  
    Treat all fellow participants, mentors, and organizers with kindness and respect. Harassment, discrimination, or offensive content in code, games, or presentations will not be tolerated.
 5. **Punctuality:**  
-   Deadlines for both Form 1 (10:00 PM today) and Form 2 (7:05 PM tomorrow) are strict. Late submissions risk missing evaluation.
+   Deadlines for both Form 1 (October 10, 2026 by 10:00 PM) and Form 2 (October 11, 2026 by 7:05 PM) are strict. Late submissions risk missing evaluation.
 
 **Good luck, have fun, and happy quantum hacking! 🚀**
