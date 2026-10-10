@@ -14,7 +14,7 @@ Please keep a close eye on the clock. All deadlines are strict to ensure fair ev
   *A registration form will be shared. Every team (or solo participant) must fill out this form by 10:00 PM specifying:*
   * Chosen Track (Track 1 or Track 2)
   * Team Name
-  * Participation type (Solo or Team)
+  * Participation type (Solo or Team — **maximum team size is 4 members**)
   * Details of all team members (Names, Emails, GitHub usernames)
 * **Checkpoint 2 — Submission Form Release:** **October 11, 2026 at 4:00 PM**  
   *The final submission form will be released. You can begin submitting your deliverables as soon as they are ready.*
@@ -128,8 +128,8 @@ All participants are expected to maintain the highest standards of integrity, re
    You are welcome to use AI tools (e.g., ChatGPT, Claude, GitHub Copilot) for conceptual brainstorming, debugging, and code syntax assistance. However:
    * The team must fully understand and be able to explain every line of code submitted.
    * Submitting purely AI-generated boilerplate without understanding or functional execution will be severely penalized during evaluation.
-4. **Collaboration & Respect:**  
-   Treat all fellow participants, mentors, and organizers with kindness and respect. Harassment, discrimination, or offensive content in code, games, or presentations will not be tolerated.
+4. **Team Size & Collaboration:**  
+   Teams may consist of **1 to 4 members** (solo participation is allowed, but maximum team size is strictly 4). Treat all fellow participants, mentors, and organizers with kindness and respect. Harassment, discrimination, or offensive content in code, games, or presentations will not be tolerated.
 5. **Punctuality:**  
    Deadlines for both Form 1 (October 10, 2026 by 10:00 PM) and Form 2 (October 11, 2026 by 7:05 PM) are strict. Late submissions risk missing evaluation.
 
